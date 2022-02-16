@@ -1,3 +1,4 @@
+<img align="Center"  src="https://raw.githubusercontent.com/bharathsivakumar28/bharathsivakumar28/main/GithubBanner.png">
 <h1 align="center">Hi 👋, I'm Bharath Sivakumar</h1>
 <h3 align="center">A boy Enjoying college Days!!!</h3>
 
